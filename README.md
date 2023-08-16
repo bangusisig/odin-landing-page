@@ -1,1 +1,2 @@
 # odin-landing-page
+These files were created for the Odin Project "Landing Page" portion of the lessons. To add a personal twist, my landing page was about one of my favorite things in the world: matcha! The landing page simulated a personal blog all about matcha.
